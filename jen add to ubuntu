@@ -1,0 +1,3 @@
+FROM ubuntu
+MAINTAINER intellqit
+ADD http://mirrors.jenkins.io/war-stable/latest/jenkins.war /tmp
